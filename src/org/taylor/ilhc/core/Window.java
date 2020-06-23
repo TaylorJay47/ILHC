@@ -1,4 +1,4 @@
-package com.taylor.ilhc.core;
+package org.taylor.ilhc.core;
 
 import org.eclipse.swt.widgets.Display;
 import org.eclipse.swt.widgets.Event;

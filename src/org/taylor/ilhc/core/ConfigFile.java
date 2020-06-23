@@ -1,4 +1,4 @@
-package com.taylor.ilhc.core;
+package org.taylor.ilhc.core;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

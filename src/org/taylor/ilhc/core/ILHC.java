@@ -1,14 +1,14 @@
-package com.taylor.ilhc.core;
+package org.taylor.ilhc.core;
 
 import com.cavariux.twitchirc.Core.TwitchBot;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
-import org.eclipse.swt.widgets.Display;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
+import org.eclipse.swt.widgets.Display;
 import com.cavariux.twitchirc.Chat.Channel;
 import com.cavariux.twitchirc.Chat.User;
 
