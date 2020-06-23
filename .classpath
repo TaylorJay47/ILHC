@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="lib/json-simple/src/main/java"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="C:/Users/Taylo/.p2/pool/plugins/org.eclipse.osgi_3.15.200.v20200214-1600.jar" sourcepath="C:/Users/Taylo/.p2/pool/plugins/org.eclipse.osgi_3.15.200.v20200214-1600.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Taylo/.p2/pool/plugins/org.eclipse.core.commands_3.9.700.v20191217-1850.jar" sourcepath="C:/Users/Taylo/.p2/pool/plugins/org.eclipse.core.commands_3.9.700.v20191217-1850.jar"/>
@@ -17,5 +16,6 @@
 	<classpathentry kind="lib" path="C:/Users/Taylo/.p2/pool/plugins/org.eclipse.ui.forms_3.9.0.v20200213-1442.jar" sourcepath="C:/Users/Taylo/.p2/pool/plugins/org.eclipse.ui.forms_3.9.0.v20200213-1442.jar"/>
 	<classpathentry kind="lib" path="D:/Github/ILHC/lib/swing2swt.jar"/>
 	<classpathentry kind="lib" path="lib/twitchirc.jar"/>
+	<classpathentry kind="lib" path="lib/json-simple.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
